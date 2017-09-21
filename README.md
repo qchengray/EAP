@@ -53,7 +53,6 @@ pip install macs2
 ```R
 install.package("Download path/EAP_1.0.tar.gz",repos = NULL, type = "source")
 ```
-<br>
 ## Contents <br>
 #### CMR calling <br>
 * Arabidopsis thaliana m6A sequencing datasets <br>
