@@ -1,4 +1,4 @@
-# ___EAP：an integrated R toolkit that aims to facilitate the epitranscriptome data analysis in plants ___ <br>
+# __EAP:：an integrated R toolkit that aims to facilitate the epitranscriptome data analysis in plants__ <br>
 ![](https://halobi.com/wp-content/uploads/2016/08/r_logo.png "R logo")
 ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvCvZWbl922EJkjahQ5gmTpcvsYr3ujQBpMdyX-YG99vGWfTAmfw "linux logo")
 ![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3RzhXKSfXpWhWhvClckwi1Llj1j3HvjKpjvU8CQv4cje23TwS "windows logo")
@@ -33,8 +33,7 @@ dependency.packages <- c("randomForst", "seqinr", "stringr", "snowfall",
                           "devtools")
 install.pacakages(dependency.packages)
 ```
-<br>
-```sh
+```bash
 ## Install Tophat/Tophat2
 sudo apt-get update
 sudo apt-get install tophat or sudo apt-get install tophat2
@@ -45,7 +44,6 @@ sudo apt-get install bowtie or sudo apt-get install bowtie2
 sudo apt-get update
 sudo apt-get install hisat or sudo apt-get install hisat2
 ```
-<br>
 ```python
 pip install macs2
 ```
