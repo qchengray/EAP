@@ -1,4 +1,4 @@
-# __EAP:：an integrated R toolkit that aims to facilitate the epitranscriptome data analysis in plants__ <br>
+# __EAP: an integrated R toolkit that aims to facilitate the epitranscriptome data analysis in plants__ <br>
 ![](https://halobi.com/wp-content/uploads/2016/08/r_logo.png "R logo")
 ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvCvZWbl922EJkjahQ5gmTpcvsYr3ujQBpMdyX-YG99vGWfTAmfw "linux logo")
 ![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3RzhXKSfXpWhWhvClckwi1Llj1j3HvjKpjvU8CQv4cje23TwS "windows logo")
