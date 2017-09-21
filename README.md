@@ -1,4 +1,4 @@
-# ___EAP___ <br>
+# ___EAP：an integrated R toolkit that aims to facilitate the epitranscriptome data analysis in plants ___ <br>
 ![](https://halobi.com/wp-content/uploads/2016/08/r_logo.png "R logo")
 ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvCvZWbl922EJkjahQ5gmTpcvsYr3ujQBpMdyX-YG99vGWfTAmfw "linux logo")
 ![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3RzhXKSfXpWhWhvClckwi1Llj1j3HvjKpjvU8CQv4cje23TwS "windows logo")
@@ -34,7 +34,7 @@ dependency.packages <- c("randomForst", "seqinr", "stringr", "snowfall",
 install.pacakages(dependency.packages)
 ```
 <br>
-```bash
+```sh
 ## Install Tophat/Tophat2
 sudo apt-get update
 sudo apt-get install tophat or sudo apt-get install tophat2
@@ -56,7 +56,7 @@ pip install macs2
 install.package("Download path/EAP_1.0.tar.gz",repos = NULL, type = "source")
 ```
 <br>
-## Contents
+## Contents <br>
 #### CMR calling <br>
 * Arabidopsis thaliana m6A sequencing datasets <br>
 * Read mapping <br>
